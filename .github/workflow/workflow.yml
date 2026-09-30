@@ -1,6 +1,7 @@
 nano: CI workflow
 
 on:
+
   push:
     branches: [ "main" ]
   pull_request:
